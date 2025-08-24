@@ -1,0 +1,3 @@
+rec_id,given_name,surname,date_of_birth,suburb,state,address_id
+rec-561-dup-0,elton,NaN,19651013,windermere,ny,light setreet
+rec-2642-dup-0,mitchell,maxon,19390212,north ryde,cal,edkins street
